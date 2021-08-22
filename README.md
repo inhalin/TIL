@@ -4,6 +4,7 @@
 
 ## 2021-08
 
+- [TIL-2021-08-22 Node.js - MySql sequelize 간단한 CRUD 예제](2021-08/TIL-2021-08-22.md)
 - [TIL-2021-08-21 AWS 1:1 멘토링, Node.js - MySql 이용한 게시판 관계 설정중](2021-08/TIL-2021-08-21.md)
 - [TIL-2021-08-20 Node.js Sequelize의 migration](2021-08/TIL-2021-08-20.md)
 - [TIL-2021-08-19 AWS 멘토링 2주차, 함수 인자값 설정시 주의사항, PHP - Magic constants](2021-08/TIL-2021-08-19.md)
