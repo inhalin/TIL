@@ -3,6 +3,7 @@
 정렬: 최신순
 ## 2022-03
 
+- [TIL 2022-03-10 Datatables 에러 - Column alrealdy exists: 1060 Duplicate column name 'id'](2022-03/TIL-2022-03-10.md)
 - [TIL 2022-03-04 요구사항 제대로 파악하기](2022-03/TIL-2022-03-04.md)
 
 ## 2022-02
